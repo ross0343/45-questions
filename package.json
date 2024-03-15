@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "main": "q1.js",
+  "devDependencies": {
+    "@types/node": "^20.11.27"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
